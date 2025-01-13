@@ -31,7 +31,7 @@ export default function Heures() {
             const data = await response.json();
 
             // Extraction des prévisions horaires pour aujourd'hui uniquement
-            const today = new Date().toISOString().split("T")[0]; // Récupération de la date actuelle au format YYYY-MM-DD
+            const today = new Date().toISOString().split("T")[0]; // Récupération de la date actuelle au format YYYY-MM-DD et convertir en string
             const previsionsDuJour = data.list.filter((item) =>
                 item.dt_txt.startsWith(today) // Filtrer uniquement les données pour la journée actuelle
             );
