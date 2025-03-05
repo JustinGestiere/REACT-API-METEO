@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2425-MDS-BTSSIO2-REACT-METEO/static/css/main.c3a368a1.css",
+    "main.js": "/2425-MDS-BTSSIO2-REACT-METEO/static/js/main.f036ccf9.js",
+    "static/js/488.7cfe8f51.chunk.js": "/2425-MDS-BTSSIO2-REACT-METEO/static/js/488.7cfe8f51.chunk.js",
+    "index.html": "/2425-MDS-BTSSIO2-REACT-METEO/index.html",
+    "main.c3a368a1.css.map": "/2425-MDS-BTSSIO2-REACT-METEO/static/css/main.c3a368a1.css.map",
+    "main.f036ccf9.js.map": "/2425-MDS-BTSSIO2-REACT-METEO/static/js/main.f036ccf9.js.map",
+    "488.7cfe8f51.chunk.js.map": "/2425-MDS-BTSSIO2-REACT-METEO/static/js/488.7cfe8f51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a368a1.css",
+    "static/js/main.f036ccf9.js"
+  ]
+}
